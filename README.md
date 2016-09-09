@@ -9,7 +9,7 @@ Methods
 - use our estimates of adult mortality by small areas
 - panel data regression analysis with socioeconomic variables
 
-Importante: justificar a relevância de fazer esse tipo de análise para a mortalidade adulta!!!!
+- We need to justify studying adult mortality. Part is because there is some work on infant and child mortality. But little is known about adult mortality. Is there divergence or convergence of adult mortality?
 
 
 References
